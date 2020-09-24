@@ -22,4 +22,4 @@ UI Clone - DropBox
 
 ## Result
 
-https://dazzling-booth-0af409.netlify.app/
+https://ui-clone-dropbox.netlify.app
